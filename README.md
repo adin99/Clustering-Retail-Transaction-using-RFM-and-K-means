@@ -8,7 +8,7 @@ Frequency merupakan berapa kali tiap customer melakukan traksaksi.
 Monetary Value merupakan berapa besar transaksi customer yang dihabiskan.
 
 
-Kesimpulan dan Insight dari Klustering ini adalah sebagai berikut:
+<b>Kesimpulan dan Insight dari Klustering ini adalah sebagai berikut:</b>
 
 Kluster 0 adalah pelanggan yang paling sering melakukan transaksi dan transaksi terbarunya dilakukan dalam waktu yang tidak jauh dari sekarang. Kluster 0 ini Paling banyak mengeluarkan uangnya untuk bertransaksi di market kita. Kluster ini merupakan target customer yang sangat potensial apabila kita meluncurkan produk baru. Pelanggan pada kluster ini bisa dikatakan pelanggan setia yang akan tetap berbelanja meskipun ada atau tidak ada nya promo.
 
